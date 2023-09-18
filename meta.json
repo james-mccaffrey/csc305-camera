@@ -8,21 +8,22 @@
                 }
             },
             "assets": {
-                "64ff4beb8dd71e4d675ef8be": {
+                "6508770c6c3181b5ef160e3f": {
                     "externalStorageType": "GCS",
-                    "_id": "64ff4beb8dd71e4d675ef8be",
+                    "_id": "6508770c6c3181b5ef160e3f",
                     "size": "53612",
                     "mimetype": "image/png",
                     "encoding": "7bit",
                     "originalname": "305soft-high-resolution-logo-black-on-transparent-background.png",
-                    "backendURI": "/project/64ff44b4e26e6bb6bf65cc8f/getasset/64ff4beb8dd71e4d675ef8be",
+                    "backendURI": "/project/6508770c6c31817708160e3d/getasset/6508770c6c3181b5ef160e3f",
                     "name": "305soft-high-resolution-logo-black-on-transparent-background.png",
-                    "externalName": "users/64f9cf139e120672bf02d03e/projects/64ff44b4e26e6bb6bf65cc8f/assets/64ff4beb8dd71e4d675ef8be",
+                    "externalName": "users/64f9cf139e120672bf02d03e/projects/6508770c6c31817708160e3d/assets/6508770c6c3181b5ef160e3f",
                     "createdAt": "2023-09-11T17:18:35.672Z",
                     "updatedAt": "2023-09-11T17:18:35.672Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cf139e120672bf02d03e/projects/64ff44b4e26e6bb6bf65cc8f/assets/64ff4beb8dd71e4d675ef8be?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230918%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230918T160459Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5c4c3cfa35ef0e2a66fcc9c8a13776b83ef5a140f49a4ea659a9cc14795820683ba69a344c5e09931e838b3d16bfa8880deb5c2083600a6d88a049ef93015834532a1f1b1ecdcb178169b3bf6de203d3548ccb422270193dbccb8ebd972b6b9615e7fa7042ce34153be0819b471911bd21f19431bb2de14d98c978524a03f7634b3da27c543fd44030783d1886c68c5c567a07ae4eca6cf6a70a1ea81cca4fefd39cb767937315a671e2ef72f887c48b0d332bd1cfc661123e7ab832913209e0447ea874a42690313b94edf221258a3fd331a3397c3f682d0f3f7114a0da526325e98abca2d899cd52bdac69316caeee3f0d30434fedad413d5fc714576b20c4",
-                    "signedUrlExpirationTime": 1695225899187
+                    "id": "6508770c6c3181b5ef160e3f",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cf139e120672bf02d03e/projects/6508770c6c31817708160e3d/assets/6508770c6c3181b5ef160e3f?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230918%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230918T161311Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=66cc2a76c75bc84565388556768cefaa99face6b35dd60608b6a211fe9ff134b4f3ead3a3a00ed419a9629e4c3b6358b1949b3e2840d675a2c1161769dedb9406216d36c3f43326d5edca6c6254a6caaabbdab42b872b25b74a09d8371328b722a591af7a0a67c6733926fc8d00dbaa707cbcdb5446eedb85382e78865f92eb2147bb026d1ce211c42440d47dd96c84bdc3b3640c94b059af606be290e9394338d58448307750c1e307fa293a50850bc7bfe0cb1e12ac04b9a163daf473b5a98eb8da6c511ca6d9e543e6468b9cf2feae80468b9489c28a64b839234ae60898af23af386cdb49dea32238045e592c96e4e082c574b0c2119efd54365a2f1f3b7",
+                    "signedUrlExpirationTime": 1695226391930
                 }
             },
             "backendUpgradeVersion": 21,
@@ -35,14 +36,14 @@
                         ],
                         "ios": [
                             {
-                                "name": "NSCameraUsageDescription",
-                                "label": "Camera",
-                                "hint": "Describe why your app uses the camera."
-                            },
-                            {
                                 "name": "NSPhotoLibraryUsageDescription",
                                 "label": "Photos",
                                 "hint": "Describe why your app uses photos."
+                            },
+                            {
+                                "name": "NSCameraUsageDescription",
+                                "label": "Camera",
+                                "hint": "Describe why your app uses the camera."
                             }
                         ]
                     }
@@ -81,7 +82,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App",
+            "projectName": "Camera App copy1",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -189,7 +190,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "1",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {},
